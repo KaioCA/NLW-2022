@@ -1,5 +1,5 @@
-import { StyleSheet } from 'react-native';
-import { theme } from '../../theme';
+import { StyleSheet } from "react-native";
+import { theme } from "../../theme";
 
 export const styles = StyleSheet.create({
   container: {
@@ -7,18 +7,18 @@ export const styles = StyleSheet.create({
     height: 40,
     borderRadius: 4,
     backgroundColor: theme.colors.surface_secondary,
-    justifyContent: 'center',
-    alignItems: 'center',
+    justifyContent: "center",
+    alignItems: "center",
     marginRight: 8,
-    position: 'relative'
+    position: "relative",
   },
   removeIcon: {
-    position: 'absolute',
+    position: "absolute",
     bottom: 0,
     right: 0,
   },
-  image:{
+  image: {
     width: 40,
     height: 40,
-  }
+  },
 });
