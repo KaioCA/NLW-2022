@@ -1,7 +1,4 @@
 <h1 align="center">NLW Return Impulse</h1>
-<p align="center">
-  <img src="./.github/icon.svg" />
-</p>
 
 ## About the project: pencil:
 
