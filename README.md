@@ -1,6 +1,6 @@
-<h1 align="center">NLW Return Impulse</h1>
+# <h1 align="center">NLW Return Impulse</h1>
 
-About the project:
+## About the project:
 
 Project carried out during the training carried out by Rockseat during the Next Level Week event.
 Here are the Front-end in ReactJS, the Back-end in Node.js and the app in React Native.
@@ -10,7 +10,7 @@ the subject, the text and the print-screen of error. The data is saved in the ba
 
 Design for study only.
 
-## Technologies:
+##  Technologies:
 
 - [Web 🌐](./web):
   - [React](https://pt-br.reactjs.org/)
