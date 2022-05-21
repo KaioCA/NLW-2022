@@ -1,0 +1,10 @@
+# typescript
+node_modules/
+dist/
+
+# env
+
+.env
+
+# jest
+coverage
