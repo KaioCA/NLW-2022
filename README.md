@@ -10,7 +10,7 @@ the subject, the text and the print-screen of error. The data is saved in the ba
 
 Design for study only.
 
-## Technologies :rocket:
+## Technologies:
 
 - [Web 🌐](./web):
   - [React](https://pt-br.reactjs.org/)
