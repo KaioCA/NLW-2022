@@ -6,7 +6,7 @@ Project carried out during the training carried out by Rockseat during the Next 
 Here are the Front-end in ReactJS, the Back-end in Node.js and the app in React Native.
 
 Simple integration project with a feedback button for websites and app, sending the
-the subject, the text and the print-screen of error. The data is saved in the bank and also sent to the desired email.
+the subject, the text and the print-screen of error. The data is saved in the database and also sent to the desired email.
 
 Design for study only.
 
