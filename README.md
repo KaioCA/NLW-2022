@@ -1,6 +1,6 @@
 <h1 align="center">NLW Return Impulse</h1>
 
-## About the project: pencil:
+About the project:
 
 Project carried out during the training carried out by Rockseat during the Next Level Week event.
 Here are the Front-end in ReactJS, the Back-end in Node.js and the app in React Native.
