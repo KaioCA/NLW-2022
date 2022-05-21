@@ -20,7 +20,7 @@ Design for study only.
 - [Server 💻](./server):
   - [Express](https://expressjs.com/pt-br/)
   - [Typescript](https://www.typescriptlang.org/)
-  - [Primsa](https://www.prisma.io/)
+  - [Prisma](https://www.prisma.io/)
   - [Jest](https://jestjs.io/pt-BR/)
 - [Mobile 📱](./mobile):
   - [React Native](https://reactnative.dev/)
